@@ -1,0 +1,167 @@
+;Country;Pandemic-ready score;iso_alpha
+0;Nigeria;100;NGA
+1;South Sudan;114;SSD
+2;Haiti;117;HTI
+3;Comoros;124;COM
+4;Central African Republic;132;CAF
+5;The Gambia;139;GMB
+6;Sierra Leone;140;SLE
+7;Chad;142;TCD
+8;Burundi;144;BDI
+9;Somalia;154;SOM
+10;Nepal;159;NPL
+11;Togo;166;TGO
+12;Lesotho;169;LSO
+13;Pakistan;169;PAK
+14;Liberia;178;LBR
+15;Malawi;180;MWI
+16;Uganda;180;UGA
+17;Guinea-Bissau;188;GNB
+18;Guinea;190;GIN
+19;Equatorial Guinea;191;GNQ
+20;Bangladesh;193;BGD
+21;Madagascar;193;MDG
+22;Sao Tome and Principe;193;STP
+23;Benin;194;BEN
+24;Papua New Guinea;195;PNG
+25;Cameroon;196;CMR
+26;Yemen;200;YEM
+27;Afghanistan;201;AFG
+28;Cote d'Ivoire;201;CIV
+29;Congo, the Democratic Republic of the;201;COD
+30;Sri Lanka;202;LKA
+31;Burkina Faso;206;BFA
+32;Mali;217;MLI
+33;Bosnia and Herzegovina;219;BIH
+34;Dominican Republic;219;DOM
+35;Ethiopia;219;ETH
+36;Philippines;219;PHL
+37;Mozambique;220;MOZ
+38;Guatemala;222;GTM
+39;Japan;223;JPN
+40;Republic of the Niger;224;NER
+41;Kenya;225;KEN
+42;Indonesia;226;IDN
+43;India;227;IND
+44;Rwanda;229;RWA
+45;Angola;232;AGO
+46;Seychelles;232;SYC
+47;Mauritania;233;MRT
+48;Senegal;234;SEN
+49;Ghana;235;GHA
+50;Albania;239;ALB
+51;Congo;242;COG
+52;Zambia;242;ZMB
+53;Honduras;243;HND
+54;Zimbabwe;243;ZWE
+55;Cambodia;244;KHM
+56;Mauritius;246;MUS
+57;Djibouti;247;DJI
+58;Eritrea;247;ERI
+59;Tanzania;247;TZA
+60;Trinidad and Tobago;247;TTO
+61;Jamaica;249;JAM
+62;El Salvador;251;SLV
+63;Vietnam;253;VNM
+64;Malta;257;MLT
+65;LAO;258;LAO
+66;Poland;260;POL
+67;Cabo Verde;264;CPV
+68;Italy;264;ITA
+69;Namibia;264;NAM
+70;South Africa;264;ZAF
+71;Gabon;265;GAB
+72;Romania;268;ROU
+73;Ukraine;268;UKR
+74;Thailand;269;THA
+75;Montenegro;270;MNE
+76;Lebanon;271;LBN
+77;Eswatini;272;SWZ
+78;Sudan;272;SDN
+79;United Kingdom;276;GBR
+80;Botswana;277;BWA
+81;Switzerland;277;CHE
+82;Netherlands;281;NLD
+83;Hungary;282;HUN
+84;Serbia;283;SRB
+85;Belgium;284;BEL
+86;Iraq;284;IRQ
+87;Bulgaria;286;BGR
+88;Croatia;287;HRV
+89;Egypt;287;EGY
+90;Portugal;287;PRT
+91;Venezuela;288;VEN
+92;Morocco;291;MAR
+93;Germany;292;DEU
+94;Bahrain;295;BHR
+95;Greece;297;GRC
+96;Luxembourg;300;LUX
+97;Slovakia;300;SVK
+98;Slovenia;300;SVN
+99;Moldova;305;MDA
+100;Latvia;307;LVA
+101;Tunisia;308;TUN
+102;North Macedonia;309;MKD
+103;Bolivia;311;BOL
+104;Chile;313;CHL
+105;Czechia;313;CZE
+106;Qatar;313;QAT
+107;Turkey;313;TUR
+108;Costa Rica;314;CRI
+109;Guyana;314;GUY
+110;Peru;320;PER
+111;Belize;322;BLZ
+112;France;323;FRA
+113;Korea, Republic of;324;KOR
+114;Nicaragua;325;NIC
+115;Syria;326;SYR
+116;Armenia;327;ARM
+117;China;327;CHN
+118;Panama;328;PAN
+119;Singapore;328;SGP
+120;Libya;330;LBY
+121;Estonia;333;EST
+122;Kuwait;334;KWT
+123;Tajikistan;334;TJK
+124;Ecuador;335;ECU
+125;Georgia;335;GEO
+126;Paraguay;336;PRY
+127;Austria;337;AUT
+128;Jordan;337;JOR
+129;Denmark;339;DNK
+130;Suriname;340;SUR
+131;Iran;341;IRN
+132;Belarus;342;BLR
+133;Spain;342;ESP
+134;Colombia;343;COL
+135;Uzbekistan;343;UZB
+136;Israel;345;ISR
+137;Myanmar;348;MMR
+138;Kyrgyzstan;354;KGZ
+139;Malaysia;356;MYS
+140;United States;356;USA
+141;Ireland;362;IRL
+142;Lithuania;365;LTU
+143;Mexico;366;MEX
+144;Azerbaijan;368;AZE
+145;Hong Kong;368;HKG
+146;Brazil;375;BRA
+147;Finland;377;FIN
+148;Algeria;378;DZA
+149;Russia;379;RUS
+150;Argentina;382;ARG
+151;Canada;388;CAN
+152;Turkmenistan;390;TKM
+153;New Zealand;392;NZL
+154;Saudi Arabia;400;SAU
+155;United Arab Emirates;400;ARE
+156;Mongolia;410;MNG
+157;Kazakhstan;414;KAZ
+158;Sweden;415;SWE
+159;Uruguay;418;URY
+160;Cuba;419;CUB
+161;Iceland;420;ISL
+162;Australia;421;AUS
+163;Oman;423;OMN
+164;Norway;433;NOR
+165;Cyprus;452;CYP
